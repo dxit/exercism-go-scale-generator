@@ -1,4 +1,4 @@
-package scale2
+package scale
 
 import (
 	"fmt"

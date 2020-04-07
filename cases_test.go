@@ -1,4 +1,4 @@
-package scale2
+package scale
 
 // Source: exercism/problem-specifications
 // Commit: 65cc51b Update scale-generator version to 2.0.0
